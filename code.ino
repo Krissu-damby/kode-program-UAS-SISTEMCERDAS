@@ -6,7 +6,7 @@ const char* WIFI_SSID = "HAHAY";
 const char* WIFI_PASS = "Konveksiaja12!";
 WiFiClient netClient;
 
-unsigned long tsChannel = 3410197;a
+unsigned long tsChannel = 3410197;
 const char* tsWriteKey = "M6ZKK3JU4W5S42NM";
 
 const int PIN_DHT = D4;
