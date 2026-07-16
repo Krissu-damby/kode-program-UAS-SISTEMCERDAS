@@ -110,5 +110,5 @@ void loop() {
 
   unggahKeCloud(celcius, fahrenheit, kelembaban, jarakSaatIni);
 
-  delay(5000);
+  delay(15000);
 }
